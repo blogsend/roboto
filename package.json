@@ -1,5 +1,5 @@
 {
-  "name": "roboto",
+  "name": "fontface-roboto",
   "version": "1.5.1",
   "description": "CSS/SASS codes and woff files for google's roboto webfont",
   "main": "roboto.css",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/FontFaceKit/roboto.git"
   },
   "author": "",
-  "license": "Apache License version 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/FontFaceKit/roboto/issues"
   },
